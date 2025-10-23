@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L+5yNMOEIxAzX/0k9KletavkI8EXqw7JZNybnCLZUlk=",
+  "Source": "Ecommerce-Server",
+  "BasePath": "_content/Ecommerce-Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
