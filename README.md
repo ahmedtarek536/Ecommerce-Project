@@ -79,5 +79,5 @@ npm run dev
 ```
 
 ## Live Demo
-https://nike-1arvshbdk-ahmeds-projects-7df2a525.vercel.app/
+https://nike-two-gray.vercel.app/
 
