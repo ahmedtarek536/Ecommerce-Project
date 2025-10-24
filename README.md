@@ -78,6 +78,6 @@ cd ecommerce-client
 npm run dev
 ```
 
-- **API URL**
-- Default: `http://localhost:5000` configured in `ecommerce-client/src/config/index.ts`.
-- Adjust `REACT_APP_API_URL` if backend runs on a different port.
+## Live Demo
+https://nike-1arvshbdk-ahmeds-projects-7df2a525.vercel.app/
+
